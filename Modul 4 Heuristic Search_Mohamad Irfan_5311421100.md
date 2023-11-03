@@ -1,6 +1,6 @@
 #### MOHAMAD IRFAN 53114211000
 
-<center><h1>MODUL 4 TEKNIK HEURISTIC SEARCH</h1></center>
+<center><h1>MODUL 5 TEKNIK HEURISTIC SEARCH</h1></center>
 Teknik pencarian heuristik adalah metode pencarian dalam kecerdasan buatan di mana agen atau program mencari solusi untuk masalah dengan menggunakan informasi tambahan yang disebut heuristik. Heuristik adalah aturan atau pedoman yang mengarahkan pencarian menuju solusi yang mungkin tanpa mengeksplorasi semua kemungkinan. Dalam konteks teknik heuristic search, agen menggunakan heuristik untuk mengambil keputusan tentang langkah apa yang harus diambil selanjutnya. Konsep ini berlawanan dengan pencarian "blind" atau "uninformed search," di mana agen tidak memiliki pengetahuan khusus tentang lingkungan atau masalah yang sedang dihadapinya.
 
 #### TUGAS
