@@ -21,7 +21,7 @@ Jadi, Algoritma BFS akan menemukan dan memproses simpul-simpul 8, 6, dan 7 setel
 
 #### Hasil Praktikum
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/hasil%20nomor%201.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/hasil%20no1.png)
 
 Berdasarkan hasil di atas, algoritma BFS dimulai dari simpul (node) ke-3 (n3) dan berikut adalah langkah-langkah untuk mencapai simpul ke-8, 6, dan 7:
 - Simpul 3 (d=0): Algoritma BFS dimulai dari simpul n3 dengan jarak 0.
