@@ -6,7 +6,7 @@ Dalam praktikum Best First Search ini, mahasiswa diminta untuk membuat implement
 
 ##### Enumaration State (GameState.Java)
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/GameState.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/6%20GameState.png)
 
 Kode tersebut mendefinisikan sebuah enumerasi (enum) dalam bahasa pemrograman Java untuk merepresentasikan berbagai kondisi atau status dalam permainan Tic Tac Toe. Enumerasi ini disebut GameState, dan memiliki empat nilai yang mungkin:
 
@@ -22,7 +22,7 @@ Dengan menggunakan enum ini, kode permainan Tic Tac Toe dapat dengan mudah meruj
 
 ##### Enumaration State (Seed.Java)
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/Seed.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/6%20Seed.png)
 
 Kode tersebut mendefinisikan sebuah enumerasi (enum) dalam bahasa pemrograman Java untuk merepresentasikan berbagai "seed" atau isi sel dalam permainan Tic Tac Toe. Enumerasi ini disebut Seed, dan memiliki tiga nilai yang mungkin:
 
@@ -36,7 +36,7 @@ Dengan menggunakan enum Seed ini, kode permainan dapat dengan mudah mengidentifi
 
 ##### Enumaration State (State.Java)
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/State.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/6%20State.png)
 
 Kode tersebut mendefinisikan sebuah enumerasi (enum) dalam bahasa pemrograman Java untuk merepresentasikan berbagai kondisi atau status dalam permainan Tic Tac Toe. Enumerasi ini disebut State, dan memiliki empat nilai yang mungkin:
 
@@ -52,7 +52,9 @@ Dengan menggunakan enum ini, kode permainan Tic Tac Toe dapat dengan mudah meruj
 
 ##### Class Cell.java
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/Class%20Cell.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/6%20Class%20Cell%201.png)
+
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/6%20Class%20Cell%202.png)
 
 Kode tersebut merupakan implementasi kelas `Cell` dalam konteks permainan Tic Tac Toe. Kelas ini merepresentasikan sebuah sel atau kotak pada papan permainan dan menyimpan informasi tentang isi sel tersebut.
 
@@ -76,9 +78,13 @@ Ini adalah bagian dari implementasi dari permainan Tic Tac Toe yang menggunakan 
 
 ##### Class Board.java
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/Class%20Board%201.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/6%20Class%20Board%201.png)
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/Class%20Board%202.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/6%20Class%20Board%202.png)
+
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/6%20Class%20Board%203.png)
+
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/6%20Class%20Board%204.png)
 
 Kode tersebut adalah implementasi kelas `Board` dalam konteks permainan Tic Tac Toe. Kelas ini bertanggung jawab untuk merepresentasikan papan permainan, mengelola sel-sel di dalamnya, serta menyediakan metode untuk menginisialisasi, memeriksa kemenangan, dan menggambar papan permainan.
 
@@ -108,13 +114,17 @@ Kelas ini berperan penting dalam mengatur logika dan tampilan papan permainan Ti
 
 ##### Class GameMain.java
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/Class%20GameMain%201.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/C%20GameMain%20(11).png)
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/Class%20GameMain%202.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/C%20GameMain%20(10).png)
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/Class%20GameMain%203.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/C%20GameMain%20(9).png)
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/Class%20GameMain%204.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/C%20GameMain%20(8).png)
+
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/C%20GameMain%20(7).png)
+
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/C%20GameMain%20(6).png)
 
 Kode yang diberikan adalah implementasi utama dari permainan Tic Tac Toe menggunakan Java dan Swing untuk antarmuka grafis. Berikut adalah penjelasan singkat untuk beberapa bagian utama dari kode tersebut:
 
@@ -159,4 +169,4 @@ Kode tersebut merupakan implementasi lengkap dari permainan Tic Tac Toe dengan a
 
 Hasil Output dari code program diatas sebagai berikut :
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/Output%20TicTacToe.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/6%20Output%20TicTacToe.png)
