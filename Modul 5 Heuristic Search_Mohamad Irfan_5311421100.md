@@ -47,7 +47,7 @@ Metode
 
 #### Hasil Praktikum
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/Jobsheet%205%20Nomor%201.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/Jobsheet%205%20(no1).png)
 
 - Keadaan Semula : Puzzle board terdiri dari sembilan ubin yang disusun dalam bentuk matriks 3x3. Ubin dengan angka 0 mewakili ubin kosong yang dapat dipindahkan ke atas, bawah, kiri, atau kanan untuk mencapai keadaan tujuan.
 - Langkah 1 : Pada langkah awal, ubin kosong dipindahkan dari koordinat (3,3) ke koordinat (2,3).
@@ -61,7 +61,7 @@ Dengan demikian, masalah 8-puzzle berhasil dipecahkan dari keadaan awal ke keada
 
 #### Hasil Praktikum
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/Jobsheet%205%20Nomor%202.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/Jobsheet%205%20(no2).png)
 
 - Langkah 1 : Memindahkan ubin kosong dari (3,3) ke (3,2)
 - Langkah 2 : Memindahkan ubin kosong dari (3,2) ke (3,1)
@@ -93,7 +93,7 @@ Jadi dapat disimpulkan, kedua solusi berhasil mencapai tujuan, namun terdapat pe
 
 #### Hasil Praktikum
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/Jobsheet%205%20Nomor%203.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/Jobsheet%205%20(no3).png)
 
 Analisa Perbandingan dengan Cara Pengerjaan Nomor 1 dan 2
 
@@ -106,7 +106,7 @@ Analisa Perbandingan dengan Cara Pengerjaan Nomor 1 dan 2
 
 #### Hasil Praktikum
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/Jobsheet%205%20Nomor%204.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/Jobsheet%205%20(no4).png)
 
 Analisa Perbandingan dengan Cara Pengerjaan Nomor 1, 2, dan 3
 
