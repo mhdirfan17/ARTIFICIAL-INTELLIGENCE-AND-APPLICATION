@@ -39,13 +39,13 @@ Berdasarkan hasil di atas, algoritma BFS dimulai dari simpul (node) ke-3 (n3) da
 
 Pada Codingan Program berisi sebagai berikut :
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/code%20nomor%202-1.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/code%20no%202-1.png)
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/code%20nomor%202-2.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/code%20no%202-2.png)
 
 #### Hasil Praktikum
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/hasil%20nomor2.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/hasil%20no2.png)
 
 Dari hasil diatas dapat mengonfirmasi kesesuaian antara hasil yang dihasilkan oleh program dengan Gambar 4.5. Langkah-langkah dalam pencarian simpul 5 melibatkan:
 - Algoritma BFS dimulai dengan memasukkan simpul 1 ke dalam antrian.
@@ -55,15 +55,15 @@ Dari hasil diatas dapat mengonfirmasi kesesuaian antara hasil yang dihasilkan ol
 
 3.	Membuat tree seperti pada gambar 4.6 yang ada pada jobsheet dengan mengubah method static void main, seperti berikut ini.
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/code%20nomor%203-1.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/code%20no%203-1.png)
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/code%20nomor%203-2.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/code%20no%203-2.png)
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/code%20nomor%203-3.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/code%20no%203-3.png)
 
 #### Hasil Praktikum
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/hasil%20nomor3.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/hasil%20no3.png)
 
 Hasil DIatas dapat memverifikasi bahwa tree yang dihasilkan oleh program sesuai dengan Gambar 4.6. Proses pencarian simpul 9 melibatkan:
 - Algoritma BFS memulai pencarian dengan memasukkan simpul 1 ke dalam antrian.
@@ -75,21 +75,21 @@ Hasil DIatas dapat memverifikasi bahwa tree yang dihasilkan oleh program sesuai 
 
 Pada kelas Node, untuk menerima huruf, perlu mengubah tipe data variabel 'data' dari integer (int) menjadi string (String).
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/code%20nomor%204-1.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/code%20no%204-1.png)
 
 Kemudian, dalam metode main, memasukkan nilai node dengan tipe data string seperti yang ditunjukkan di bawah ini.
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/code%20nomor%204-2.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/code%20no%20%204-2.png)
 
 Selanjutnya, dalam metode addEdge dan bfs, tambahkan logika pemrosesan data yang sesuai untuk tipe data String seperti di bawah ini.
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/code%20nomor%204-3.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/code%20no%204-3.png)
 
 Lalu klik Run sehingga didapatkan hasil pada gambar di bawah ini.
 
 #### Hasil Praktikum
 
-![alt text](https://github.com/MFikriHidayat/Fikri/blob/main/hasil%20nomor4.png)
+![alt text](https://github.com/mhdirfan17/ARTIFICIAL-INTELLIGENCE-AND-APPLICATION/blob/main/hasil%20no4.png)
 
 Hasil diatas menegaskan kesesuaian antara hasil pohon yang dihasilkan oleh program dengan gambar 4.7. 
 - Untuk menemukan node 3 (C), algoritma BFS dimulai dengan memasukkan node 6 (F) ke dalam antrian. 
