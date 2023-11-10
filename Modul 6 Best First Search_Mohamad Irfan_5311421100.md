@@ -2,7 +2,8 @@
 
 <center><h1>MODUL 6 PERMAINAN TIC TAC TOE</h1></center>
 
-Dalam praktikum Best First Search ini, mahasiswa diminta untuk membuat implementasi permainan Tic-Tac-Toe menggunakan bahasa pemrograman Java. Untuk melaksanakan praktikum ini, buatlah sebuah folder dengan nama "Tic Tac Toe". Pada folder tersebut, kita buat enam file dengan nama State.Java, Seed.Java, GameState.Java, Cell.Java, Board.Java, dan GameMain.Java seperti yang tercantum di bawah ini:
+Pada modul 6 tentang Permaian TIC TAC TOE ini memiliki tujuan untuk Meningkatkan pemahaman mahasiswa terhadap code permainan tic tac toe. Selain itu, modul 6 
+memberikan pengetahuan tentang Object Oriented Programming menggunakan bahasa pemrograman Java terutama Java Swing dan Japplet. Dalam praktikum Best First Search ini, mahasiswa diminta untuk membuat implementasi permainan Tic-Tac-Toe menggunakan bahasa pemrograman Java. Untuk melaksanakan praktikum ini, buatlah sebuah folder dengan nama "Tic Tac Toe". Pada folder tersebut, kita buat enam file dengan nama State.Java, Seed.Java, GameState.Java, Cell.Java, Board.Java, dan GameMain.Java seperti yang tercantum di bawah ini:
 
 ##### Enumaration State (GameState.Java)
 
